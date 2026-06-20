@@ -1,6 +1,6 @@
 # RC Boat Thingy - an RC boat that goes WROOM WROOM   
 
-<img width="813" height="411" alt="title_pic" src="https://github.com/user-attachments/assets/0f2e1f8f-81a8-4e53-b34b-7ae28a89184a" />
+<img width="813" height="411" alt="title_pic" src="https://github.com/user-attachments/assets/2ace20f8-e052-46fb-adb4-74ec5545da06" />
 
 A Boat controller with an **IMU**, **Gyro** and **GPS** packed into a 3D-printed hull, powering an **ESC** and a **BLDC** motor. Along with it is a small controller that controls the boat over about a 2 km range.
 
@@ -77,20 +77,13 @@ I designed it in EasyEDA Pro. You can find the Gerber files in the repo. The sch
 
 The primary Boat Controller has the following schematics and PCBs:
 
-
-<img width="532" height="334" alt="schematic_board" src="https://github.com/user-attachments/assets/062fbc81-7ba5-4122-a1f8-ab5860ea6174" />
-<img width="453" height="208" alt="pcb_board" src="https://github.com/user-attachments/assets/673684f3-cca2-460e-a8c3-b9b2c6f13214" />
-
-
+<img width="532" height="334" alt="schematic_board" src="https://github.com/user-attachments/assets/64975151-196c-4880-a5f0-1722ec51aabd" />
+<img width="453" height="208" alt="pcb_board" src="https://github.com/user-attachments/assets/c26b6122-0452-4bae-9049-61cb018bf98c" />
 
 The Transmitter has the following schematics and PCBs:
 
-
-<img width="430" height="284" alt="schematic_controller" src="https://github.com/user-attachments/assets/652b3725-b0a7-46f7-8739-7bc8b20631e7" />
-<img width="326" height="371" alt="pcb_controller" src="https://github.com/user-attachments/assets/dc41486f-a11a-4b6b-b801-138621a5f583" />
-
-
-
+<img width="430" height="284" alt="schematic_controller" src="https://github.com/user-attachments/assets/793d7845-4a37-4dd3-9cc5-7f3e58fb9b67" />
+<img width="326" height="371" alt="pcb_controller" src="https://github.com/user-attachments/assets/23bf796c-9c8e-4433-9707-a0da878c2a22" />
 
 # Case
 
@@ -99,18 +92,15 @@ The Control Board is meant to be a fully tunable board with different motor cont
 The transmitter needs its own case with its CAD files mentioned in the CAD_Files folder. 
 The top and bottom view of the total transmitter assembly is attached below. 
 
-<img width="301" height="325" alt="controller_front" src="https://github.com/user-attachments/assets/3613964c-3fc3-4bf3-87ec-748f9cc5e65e" />
+<img width="301" height="325" alt="controller_front" src="https://github.com/user-attachments/assets/5e283015-d7ca-42b5-b24e-8e260e19e382" />
 
+<img width="260" height="297" alt="controller_back" src="https://github.com/user-attachments/assets/5a0730b5-de66-40df-96e2-8636e9c09bdc" />
 
-<img width="260" height="297" alt="controller_back" src="https://github.com/user-attachments/assets/48a5db48-395b-483e-bbe6-afcef729e239" />
-
-<img width="301" height="324" alt="controller_internal" src="https://github.com/user-attachments/assets/3f7b4dc2-b9dd-4a2d-88ed-1466f8d08899" />
-
+<img width="301" height="324" alt="controller_internal" src="https://github.com/user-attachments/assets/a88e7f3f-783c-4881-809a-43f0934d9676" />
 
 The case features a snap-fit design, so you just have to like align the top and bottom parts of the 3D print together and press them together. You only need screws to screw the PCB into place with the bottom part.
 
-<img width="393" height="343" alt="controller_screw_assembly" src="https://github.com/user-attachments/assets/2578801c-5e3e-4c3c-b68f-44211c6298a5" />
-
+<img width="393" height="343" alt="controller_screw_assembly" src="https://github.com/user-attachments/assets/9f83e61d-9928-438e-aa38-7f1af8f310fa" />
 
 
 # Assembly
@@ -455,6 +445,5 @@ RC_Boat_Thingyy:.
 ```
 
 # Zine 
-
-<img width="2819" height="4000" alt="RC_boat_thingy_zine" src="https://github.com/user-attachments/assets/b138a9dd-2099-4e45-b908-8a4401c512a9" />
+<img width="2819" height="4000" alt="RC_boat_thingy_zine" src="https://github.com/user-attachments/assets/81ca36a4-989c-4227-a6fe-1045033b8dfa" />
 
