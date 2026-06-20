@@ -136,7 +136,7 @@ Boat controller software setup :-
 2. Make sure to install all of the dependencies for the software mentioned in the dependencies.txt file to ensure the code runs and doesn't break down mid compilation
 3. Reconnect the boat controller with the BOOT button held down to enter in BOOTSEL mode
 4. Your computer should recognize the board as a USB mass storage device and will typically be named "RPI-RP2" 
-5. All of the code being uploaded to the boat controller will be done so through the Arduino IDE, henceforth please make sure to add the RP2040 as an additional board. (go to File -> Preferences -> Additional Board Manager URLs -> Add this URL"[ ](https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json)")
+5. All of the code being uploaded to the boat controller will be done so through the Arduino IDE, henceforth please make sure to add the RP2040 as an additional board. (go to File -> Preferences -> Additional Board Manager URLs -> Add this URL"https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json"
 6. Go to Boards manager and search for RP2040, if there's any compatibility issues than install "Raspberry Pi Pico/RP2040/RP2350" by Earle F. Philhower
 7. Before uploading the sketch provided in the Boat-Controller Firmware, configure your boat profile based on the  size and dimensions of your boat chassis. Run the python script the tools folder and take the files you get from that and dump them into the Firmware folder before proceeding to upload it to the board. 
 8. Change the default nRF24L01 pin number to the GPIO's you have connected your module to and update the code accordingly
