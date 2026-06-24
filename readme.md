@@ -445,5 +445,6 @@ RC_Boat_Thingyy:.
 ```
 
 # Zine 
-<img width="2819" height="4000" alt="RC_boat_thingy_zine" src="https://github.com/user-attachments/assets/81ca36a4-989c-4227-a6fe-1045033b8dfa" />
+<img width="2819" height="4000" alt="Zine_RC_Boat_Thingy" src="https://github.com/user-attachments/assets/482c29d8-a9eb-4ba6-9111-a0b085a375ad" />
+
 
